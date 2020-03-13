@@ -1,4 +1,5 @@
 <!doctype html>
+<html>
     <form action="registratie_handler.php" method="post">
         <input type="text" name="username">
         <label for="username" id="username">Username</label>
